@@ -32,3 +32,7 @@
 </li>
 
 <li>The dashboard breakdowns overall total revenues & quantities then markets by revenue & quantities as well its top five customers & products in all periods. </li></ul><br></div>
+
+<div>
+  <h2><picture>
+  </picture> Project Link: </h2></div> https://public.tableau.com/views/ATLIQHARDWARESSALESINSIGHTS/salesinsight?:language=en-US&:display_count=n&:origin=viz_share_link
