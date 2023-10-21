@@ -35,4 +35,7 @@
 
 <div>
   <h2><picture>
-  </picture> Project Link: </h2></div> https://public.tableau.com/views/ATLIQHARDWARESSALESINSIGHTS/salesinsight?:language=en-US&:display_count=n&:origin=viz_share_link
+  </picture> Project Overview: </h2></div>
+  <div align="left">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/56791370/277122161-e102ea23-1b52-45ad-8873-8355a9d12b49.png" width="1000"/>
+ </div> https://public.tableau.com/views/ATLIQHARDWARESSALESINSIGHTS/salesinsight?:language=en-US&:display_count=n&:origin=viz_share_link
